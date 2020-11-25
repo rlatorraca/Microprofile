@@ -1,4 +1,4 @@
-package com.github.viniciusfcf.microprofile.restclient;
+package ca.com.rlsp.microprofile.restclient;
 
 import javax.enterprise.context.ApplicationScoped;
 import javax.inject.Inject;

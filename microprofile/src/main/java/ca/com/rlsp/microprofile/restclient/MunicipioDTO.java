@@ -1,4 +1,4 @@
-package com.github.viniciusfcf.microprofile.restclient;
+package ca.com.rlsp.microprofile.restclient;
 
 public class MunicipioDTO {
 

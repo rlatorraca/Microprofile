@@ -1,4 +1,4 @@
-package com.github.viniciusfcf.microprofile.openapi;
+package ca.com.rlsp.microprofile.openapi;
 
 import org.eclipse.microprofile.openapi.OASFilter;
 import org.eclipse.microprofile.openapi.models.Operation;

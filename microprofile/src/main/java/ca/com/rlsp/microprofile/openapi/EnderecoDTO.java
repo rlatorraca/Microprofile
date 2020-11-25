@@ -1,4 +1,4 @@
-package com.github.viniciusfcf.microprofile.openapi;
+package ca.com.rlsp.microprofile.openapi;
 
 import javax.validation.constraints.Max;
 import javax.validation.constraints.Min;

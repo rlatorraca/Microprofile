@@ -1,4 +1,4 @@
-package com.github.viniciusfcf.microprofile.fault;
+package ca.com.rlsp.microprofile.fault;
 
 import org.eclipse.microprofile.faulttolerance.ExecutionContext;
 import org.eclipse.microprofile.faulttolerance.FallbackHandler;

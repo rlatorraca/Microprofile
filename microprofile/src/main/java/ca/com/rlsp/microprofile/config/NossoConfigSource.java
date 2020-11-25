@@ -1,4 +1,4 @@
-package com.github.viniciusfcf.microprofile.config;
+package ca.com.rlsp.microprofile.config;
 
 import java.util.Collections;
 import java.util.Map;

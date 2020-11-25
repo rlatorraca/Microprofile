@@ -1,4 +1,4 @@
-package com.github.viniciusfcf.microprofile.metrics;
+package ca.com.rlsp.microprofile.metrics;
 
 import javax.enterprise.context.ApplicationScoped;
 

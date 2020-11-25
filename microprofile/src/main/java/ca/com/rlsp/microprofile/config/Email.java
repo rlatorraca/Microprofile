@@ -1,4 +1,4 @@
-package com.github.viniciusfcf.microprofile.config;
+package ca.com.rlsp.microprofile.config;
 
 public class Email {
     

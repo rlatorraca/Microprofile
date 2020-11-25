@@ -1,4 +1,4 @@
-package com.github.viniciusfcf.microprofile.restclient;
+package ca.com.rlsp.microprofile.restclient;
 
 import java.util.Collections;
 import java.util.List;

@@ -1,4 +1,4 @@
-package com.github.viniciusfcf.microprofile.openapi;
+package ca.com.rlsp.microprofile.openapi;
 
 import java.util.List;
 

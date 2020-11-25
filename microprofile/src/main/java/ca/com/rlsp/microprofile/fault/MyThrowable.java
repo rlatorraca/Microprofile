@@ -1,4 +1,4 @@
-package com.github.viniciusfcf.microprofile.fault;
+package ca.com.rlsp.microprofile.fault;
 
 public class  MyThrowable extends Throwable{
 

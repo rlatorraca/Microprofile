@@ -1,4 +1,4 @@
-package com.github.viniciusfcf.microprofile.health;
+package ca.com.rlsp.microprofile.health;
 
 import javax.enterprise.context.ApplicationScoped;
 import javax.enterprise.inject.Produces;

@@ -1,4 +1,4 @@
-package com.github.viniciusfcf.microprofile.openapi;
+package ca.com.rlsp.microprofile.openapi;
 
 import org.eclipse.microprofile.openapi.OASFactory;
 import org.eclipse.microprofile.openapi.OASModelReader;

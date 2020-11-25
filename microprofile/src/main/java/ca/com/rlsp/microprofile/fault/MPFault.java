@@ -1,6 +1,7 @@
-package com.github.viniciusfcf.microprofile.fault;
+package ca.com.rlsp.microprofile.fault;
 
 import java.util.concurrent.atomic.AtomicInteger;
+
 
 import javax.enterprise.context.RequestScoped;
 import javax.inject.Inject;
@@ -9,8 +10,8 @@ import javax.ws.rs.Path;
 import javax.ws.rs.Produces;
 import javax.ws.rs.core.MediaType;
 
-import com.github.viniciusfcf.microprofile.restclient.MunicipioDTO;
-import com.github.viniciusfcf.microprofile.restclient.MunicipioService;
+import ca.com.rlsp.microprofile.restclient.MunicipioDTO;
+import ca.com.rlsp.microprofile.restclient.MunicipioService;
 
 import org.eclipse.microprofile.rest.client.inject.RestClient;
 

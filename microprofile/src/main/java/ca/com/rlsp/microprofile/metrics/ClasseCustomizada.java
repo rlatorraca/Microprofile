@@ -1,4 +1,4 @@
-package com.github.viniciusfcf.microprofile.metrics;
+package ca.com.rlsp.microprofile.metrics;
 
 
 public final class ClasseCustomizada {
